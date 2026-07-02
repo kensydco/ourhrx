@@ -17,6 +17,14 @@ Track reusable GHL Ask AI prompts.
 | Funnel Build | Funnels | prompts/ask-ai/sprint-2-prompt-library.md | Ready |
 | Message Library | Messaging | prompts/ask-ai/sprint-2-prompt-library.md | Ready |
 | QA Checklist | QA | prompts/ask-ai/sprint-2-prompt-library.md | Ready |
+| Resource Vault | Membership | prompts/ask-ai/sprint-3-prompt-library.md | Ready |
+| Onboarding Lessons | Training | prompts/ask-ai/sprint-3-prompt-library.md | Ready |
+| Starter Kit | Content | prompts/ask-ai/sprint-3-prompt-library.md | Ready |
+| Activation Sequence | Automation | prompts/ask-ai/sprint-3-prompt-library.md | Ready |
+| First 30 Days | Training | prompts/ask-ai/sprint-3-prompt-library.md | Ready |
+| Social Content Bank | Content | prompts/ask-ai/sprint-3-prompt-library.md | Ready |
+| Support Request | Support | prompts/ask-ai/sprint-3-prompt-library.md | Ready |
+| Activation QA | QA | prompts/ask-ai/sprint-3-prompt-library.md | Ready |
 
 ## Prompt Metadata Standard
 
