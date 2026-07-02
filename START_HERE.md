@@ -4,8 +4,8 @@ module: Dashboard
 priority: Critical
 status: Active
 platform: GoHighLevel
-last_updated: 2026-07-01
-version: 0.2.0
+last_updated: 2026-07-02
+version: 0.3.0
 ---
 
 # OurHealth Rx Platform Playbook
@@ -22,7 +22,7 @@ This repository is the operating playbook for the OurHealth Rx partner platform.
 |---|---|---|
 | Sprint 1 | Complete | Architecture and foundation |
 | Sprint 2 | Complete | GHL implementation specs |
-| Sprint 3 | Pending | Resources and advanced automation |
+| Sprint 3 | Complete | Resource vault and activation |
 | Sprint 4 | Pending | AI support flows |
 | Sprint 5 | Pending | Reporting and optimization |
 
@@ -55,28 +55,45 @@ This repository is the operating playbook for the OurHealth Rx partner platform.
 
 - [Core Workflow Library](docs/workflows/core-workflows.md)
 - [Sprint 2 Workflow Specs](docs/workflows/sprint-2-workflow-specs.md)
+- [Sprint 3 Activation Workflows](docs/workflows/sprint-3-activation-workflows.md)
 - [Workflow Registry](registries/workflow-registry.md)
 
 ## Build Messaging
 
 - [Email Library](docs/messaging/email-library.md)
 - [SMS Library](docs/messaging/sms-library.md)
+- [Onboarding Email Sequence](docs/messaging/onboarding-email-sequence.md)
+- [Onboarding SMS Sequence](docs/messaging/onboarding-sms-sequence.md)
+
+## Build Partner Activation
+
+- [Resource Vault](docs/membership/resource-vault.md)
+- [Onboarding Lessons](docs/membership/onboarding-lessons.md)
+- [Partner Starter Kit](docs/activation/partner-starter-kit.md)
+- [Activation Sequence](docs/activation/activation-sequence.md)
+- [First 30 Days Plan](docs/activation/first-30-days.md)
+- [Social Content Bank](docs/activation/social-content-bank.md)
+- [Contact Templates](docs/activation/contact-templates.md)
+- [Partner FAQ Content](docs/activation/affiliate-faq-content.md)
+- [Support Request Process](docs/activation/support-request-process.md)
 
 ## Build AI Support
 
 - [AI Knowledge Base](docs/ai/knowledge-base.md)
 - [Conversation AI Spec](docs/ai/conversation-ai-spec.md)
-- [Voice AI Spec](docs/ai/voice-ai-spec.md)
+- [AI Support Spec](docs/ai/ai-support-spec.md)
 
 ## Use Prompts
 
 - [Sprint 1 Prompt Library](prompts/ask-ai/sprint-1-prompt-library.md)
 - [Sprint 2 Prompt Library](prompts/ask-ai/sprint-2-prompt-library.md)
+- [Sprint 3 Prompt Library](prompts/ask-ai/sprint-3-prompt-library.md)
 - [Prompt Registry](registries/prompt-registry.md)
 
 ## QA
 
 - [QA Launch Checklist](docs/qa/launch-checklist.md)
+- [Sprint 3 Activation QA](docs/qa/sprint-3-activation-qa.md)
 - [Asset Registry](registries/asset-registry.md)
 - [AI Registry](registries/ai-registry.md)
 
@@ -98,6 +115,9 @@ This repository is the operating playbook for the OurHealth Rx partner platform.
 7. Build approval workflow.
 8. Build review workflows.
 9. Build email and SMS templates.
-10. Configure AI agents.
-11. Run QA checklist.
-12. Review before launch.
+10. Build resource vault.
+11. Build activation sequence.
+12. Build support request process.
+13. Configure AI agents.
+14. Run QA checklist.
+15. Review before launch.
