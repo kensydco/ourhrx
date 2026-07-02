@@ -2,22 +2,46 @@
 
 ## 2026-07-01
 
-### Added
+### Sprint 2 Added
 
-- Expanded README for OurHealth Rx Affiliate Growth Platform.
-- Created documentation branch: `docs/sprint-1-platform-playbook`.
-- Added project status tracker.
-- Added implementation roadmap.
-- Added system overview.
-- Added build order guide.
-- Added naming conventions.
-- Added brand voice guide.
-- Added messaging guardrails.
-- Added GHL foundation setup guide.
-- Added affiliate program overview.
-- Added affiliate lifecycle guide.
-- Added affiliate registration funnel specification.
-- Added core workflow library.
-- Added AI knowledge base.
-- Added Sprint 1 GHL Ask AI prompt library.
-- Added decisions log.
+- START_HERE dashboard
+- CONTRIBUTING guide
+- Role guides
+- Asset registry
+- Prompt registry
+- Workflow registry
+- AI registry
+- Campaign setup doc
+- Terms model doc
+- Approval and link doc
+- CRM model doc
+- Funnel build doc
+- Forms library
+- Workflow specs
+- Email library
+- SMS library
+- Conversation AI spec
+- AI support spec
+- Launch checklist
+- Sprint 2 prompt library
+- Updated project status
+
+### Sprint 1 Added
+
+- README expansion
+- Documentation branch
+- Project status tracker
+- Implementation roadmap
+- System overview
+- Build order guide
+- Naming conventions
+- Brand voice guide
+- Guardrails
+- GHL foundation setup guide
+- Program overview
+- Lifecycle guide
+- Registration funnel spec
+- Core workflow library
+- AI knowledge base
+- Sprint 1 prompt library
+- Decisions log
